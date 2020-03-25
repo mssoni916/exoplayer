@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExoPlayerDemo</string>
+    <string name="mp3_media_url">https://storage.googleapis.com/exoplayer-test-media-0/play.mp3</string>
+    <string name="mp4_media_url">https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4</string>
+</resources>
